@@ -1,0 +1,8 @@
+{
+  "name": "campfire-wood-log-estimator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test js/calculator.test.js js/state.test.js"
+  }
+}
